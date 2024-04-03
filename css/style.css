@@ -258,7 +258,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
         padding-right: 20px; }
         .site-nav .site-navigation .site-menu .has-children > a:before {
           position: absolute;
-          content: "\e313";
+          content: "\.";
           font-size: 14px;
           top: 50%;
           right: 0;
@@ -1151,7 +1151,7 @@ figure.dotted-bg {
 #about-section {
   margin-top: 7rem; }
   #about-section .container {
-    background: #0389ff;
+    background: #B4D5FA;
     padding-top: 50px;
     padding-bottom: 50px;
     padding-left: 50px;
